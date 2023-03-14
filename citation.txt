@@ -1,0 +1,10 @@
+@article{REPO-048,
+    author = "Zhang, Yanfeng and Chen, Shimin and Yu, Ge",
+    journal = "IEEE Transactions on Knowledge and Data Engineering",
+    number = "12",
+    pages = "3218--3230",
+    publisher = "IEEE",
+    title = "{Efficient Distributed Density Peaks for Clustering Large Data Sets in Mapreduce}",
+    volume = "28",
+    year = "2016"
+}
